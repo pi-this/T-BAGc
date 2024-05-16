@@ -1,2 +1,2 @@
 # T-BAG
-A python interpreted programming language that is specifically for making hybrid or non-hybrid text-based adventure games.
+A python interpreted simple domain-specific language (DSL) that makes writing text-based adventure games so much easier.
