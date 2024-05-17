@@ -47,35 +47,17 @@ pip install -r requirements.txt
 
 ### Installing
 
-Install brocode binary release from <a href="https://github.com/C0mRD/broCode/releases/tag/v1.0">here.</a>
+To install T-BAGc follow the instructions bellow.
 
-To get the source code for development purpose clone this repository via git or download as a zip file from github.
 
-```
-git clone https://github.com/C0mRD/broCode
-```
+##### Step 1
+Download zip
 
-<b>Windows</b>
 
-Download the brocode binary release for windows first. Run brocode.exe file with the input filename as an argument.
-
-```
-brocode code.bro
-```
-
-<b>Linux</b>
-
-Install all the [prerequisites](#prerequisites) first. Download zip file for linux from the release. Give the brocode file permission to execute.
-
-```
-chmod +x brocode
-```
-
-Run brocode file in terminal with the input filename as an argument.
-
-```
-brocode code.bro
-```
+<p align="center">
+  <a href="" rel="noopener">
+ <img src="https://github.com/pi-this/T-BAGc/blob/main/img/installStep1.png" alt="Project logo"></a>
+</p>
 
 To get more brocode example files see the example folder.
 
