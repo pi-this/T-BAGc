@@ -22,9 +22,6 @@ T-BAGc stands for Text-Based Adventure Game Creator.
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Documentation](#documentation)
-- [TODO](#todo)
-- [Built Using](#built_using)
-- [Authors](#authors)
 
 ## About <a name = "about"></a>
 
@@ -46,18 +43,18 @@ If Python is not installed you can install it at <a href="https://www.python.org
 When running the Python installer on Windows check "use admin privileges" when installing py.exe and "add python.exe to the PATH".
 
 
-Once Python is installed you can install T-BAGc
+Once Python is installed you can install T-BAGc.
 
 ### Installing
 
-To install T-BAGc follow the instructions bellow.
+To install T-BAGc follow the instructions below.
 
 
 ##### Step 1
 Download zip
 
 
-First download the zip file for the project.
+First, download the zip file for the project.
 <p>
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/installStep1.png" alt="Project logo"></a>
@@ -65,9 +62,9 @@ First download the zip file for the project.
   Navigate to Code -> Download Zip
 </p>
 
-To get more brocode example files see the example folder.
 
-## 🎈 Documentation <a name="documentation"></a>
+
+##  Documentation <a name="documentation"></a>
 
 ### General
 
@@ -147,29 +144,6 @@ jotokhon bro a<b{
 }
 stop bro
 ```
-
-## 🚀 Todo <a name = "todo"></a>
-
-- [x] Variables (int, float, string)
-- [x] Binary operations
-- [x] Conditionals
-- [x] Loops
-- [x] Output to console
-
-- [ ] I/O Operations
-- [ ] Functions
-- [ ] User-defined data types
-- [ ] Import statements
-
-
-## ⛏️ Built Using <a name = "built_using"></a>
-
-- [Antlr4](https://www.antlr.org/) - Lexer & Parser
-- [Python3](https://www.python.org/) - Interpreter
-- [React.js](https://reactjs.org/) - Website frontend
-- [Flask](https://flask.palletsprojects.com/) - Backend server
-
-## ✍️ Authors <a name = "authors"></a>
 
 - [@c0mrd](https://github.com/c0mrd) - Idea & Initial work
 
