@@ -192,6 +192,4 @@ title "hello world"
 [<...>]
 ```
 
-- [@c0mrd](https://github.com/c0mrd) - Idea & Initial work
-
 
