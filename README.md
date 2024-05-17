@@ -27,7 +27,7 @@ T-BAGc stands for Text-Based Adventure Game Creator.
 
 T-BAGc is a simple domain-specific language, it has one purpose, to create text-based adventure games. This is what makes it unique. T-BAGc makes text-based adventure game creation so much easier and quicker.
 Since there is only one simple purpose in T-BAGc, each file can many times be written in under 20 lines of code. T-BAGc is made so that the files can be organized into different bags (or views). When a question is answered it goes to the next file.
-In Python, making text-based adventure games can take forever, and it gets annoying to put another if inside an if and so on. T-BAGc fixes all the issues that all the other programming languages have with making text-based adventure games. Use T-BAGc to create a new game, a game that can be made in less time, with better organization, and the same enjoyment of creating and playing a text-based adventure game. So what are you waiting for? [Get started](#getting_started) now and install T-BAGc so your can create your
+In Python, making text-based adventure games can take forever, and it gets annoying to put another if inside an if and so on. T-BAGc fixes all the issues that all the other programming languages have with making text-based adventure games. Use T-BAGc to create a new game, a game that can be made in less time, with better organization, and the same enjoyment of creating and playing a text-based adventure game. So what are you waiting for? [Get started](#getting_started) now and install T-BAGc so you can create your
 own T-BAG.
 
 
@@ -101,9 +101,8 @@ Now redirect the command prompt to the admin privileges cmd window.
   ```
 powershell -Command "Start-Process cmd -Verb RunAs"
 ```
-  <br />
-  On the keyboard, hold down the 'Windows Key + R' to open the run dialog.
-  In the run dialog type "cmd" to open the command prompt.
+
+  Type the command above in the administrator command prompt.
 </p>
 
 
@@ -113,13 +112,13 @@ powershell -Command "Start-Process cmd -Verb RunAs"
 
 Now reject the command prompt to admin privileges cmd window.
 <p>
-  <a href="" rel="noopener">
- <img src="https://github.com/pi-this/T-BAGc/blob/main/img/installStep2.png" alt="Project logo"></a>
+  ```
+xcopy "<filepath>\T-BAGc" "C:\Windows\System32\"
+```
   <br />
   On the keyboard, hold down the 'Windows Key + R' to open the run dialog.
   In the run dialog type "cmd" to open the command prompt.
 </p>
-
 
 
 
