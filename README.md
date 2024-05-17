@@ -26,12 +26,14 @@ T-BAGc stands for Text-Based Adventure Game Creator.
 - [Built Using](#built_using)
 - [Authors](#authors)
 
-## 🧐 About <a name = "about"></a>
+## About <a name = "about"></a>
 
-BroCode is a tiny programming language built using Antlr4 Python3 runtime, it includes all the essential features of any modern day programming language. But what sets broCode apart is its use of regional language(bengali) words as tokens. BroCode is available for you to explore and if you want to build your own programming language, brocode is perfect to take the inspiration.
+T-BAGc is a simple domain-specific language, it has one purpose, to create text-based adventure games. There is no need for classes, functions, or even variables. T-BAGc makes text-based adventure game creation so much easier and quicker.
+Since there is only one simple purpose in T-BAGc, each file can many times be written in under 20 lines of code. T-BAGc is made so that the files can be organized into different bags (or views). When a question is answered it goes to the next file.
+This organization is what makes T-BAGc
 
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## Getting Started <a name = "getting_started"></a>
 
 By following these instructions you will have T-BAGc running on your computer.
 
