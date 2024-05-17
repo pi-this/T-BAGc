@@ -142,7 +142,22 @@ Now, create a folder.
 <p>
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/running2.png" alt="Project logo"></a>
+  <br />
   Within that folder make a .bag file. This is the file that will contain your T-BAGc code.
+</p>
+
+<p>
+  <a href="" rel="noopener">
+ <img src="https://github.com/pi-this/T-BAGc/blob/main/img/run3.png" alt="Project logo"></a>
+  <br />
+  In Visual Studio open the folder path.
+</p>
+
+<p>
+  <a href="" rel="noopener">
+ <img src="https://github.com/pi-this/T-BAGc/blob/main/img/run4.png" alt="Project logo"></a>
+  <br />
+  In Visual Studio open the folder path.
 </p>
 
 
