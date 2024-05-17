@@ -97,9 +97,10 @@ Allow admin privileges
 
 Now redirect the command prompt to the admin privileges cmd window.
 <p>
+
   ```
-  powershell -Command "Start-Process cmd -Verb RunAs"
-  ```
+powershell -Command "Start-Process cmd -Verb RunAs"
+```
   <br />
   On the keyboard, hold down the 'Windows Key + R' to open the run dialog.
   In the run dialog type "cmd" to open the command prompt.
