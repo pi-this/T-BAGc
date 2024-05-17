@@ -185,6 +185,13 @@ log "hello world"
 <...>
 ```
 
+
+Hello World can also be displayed as an HTML view as a title, to do that type this code:
+```
+title "hello world"
+[<...>]
+```
+
 ### Built-ins
 
 Use ```bol bro``` to print anything to console.
