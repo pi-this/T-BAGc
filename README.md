@@ -77,6 +77,22 @@ Extract the zip file.
 
 
 
+##### Step 3
+Open command prompt
+
+
+Open the command prompt for further execution.
+<p>
+  <a href="" rel="noopener">
+ <img src="https://github.com/pi-this/T-BAGc/blob/main/img/installStep2.png" alt="Project logo"></a>
+  <br />
+  On the keyboard, hold down the 'Windows Key + R' to open the run dialog.
+  In the run dialog type "cmd" to open the command prompt.
+</p>
+
+
+
+
 
 ##  Documentation <a name="documentation"></a>
 
