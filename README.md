@@ -112,6 +112,7 @@ powershell -Command "Start-Process cmd -Verb RunAs"
 
 Now reject the command prompt to admin privileges cmd window.
 <p>
+
   ```
 xcopy "<filepath>\T-BAGc" "C:\Windows\System32\"
 ```
