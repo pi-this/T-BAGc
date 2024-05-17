@@ -56,6 +56,7 @@ Download zip
 <p align="center">
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/installStep1.png" alt="Project logo"></a>
+  <br />
   Navigate to Code -> Download Zip
 </p>
 
