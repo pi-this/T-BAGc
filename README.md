@@ -91,6 +91,33 @@ Open the command prompt for further execution.
 </p>
 
 
+##### Step 4
+Allow admin privileges
+
+
+Now reject the command prompt to admin privileges cmd window.
+<p>
+  <a href="" rel="noopener">
+ <img src="https://github.com/pi-this/T-BAGc/blob/main/img/installStep2.png" alt="Project logo"></a>
+  <br />
+  On the keyboard, hold down the 'Windows Key + R' to open the run dialog.
+  In the run dialog type "cmd" to open the command prompt.
+</p>
+
+
+##### Step 5
+
+
+
+Now reject the command prompt to admin privileges cmd window.
+<p>
+  <a href="" rel="noopener">
+ <img src="https://github.com/pi-this/T-BAGc/blob/main/img/installStep2.png" alt="Project logo"></a>
+  <br />
+  On the keyboard, hold down the 'Windows Key + R' to open the run dialog.
+  In the run dialog type "cmd" to open the command prompt.
+</p>
+
 
 
 
