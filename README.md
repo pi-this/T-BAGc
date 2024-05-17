@@ -8,14 +8,10 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/c0mrd/brocode.svg)](https://github.com/C0mRD/brocode/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/c0mrd/brocode.svg)](https://github.com/C0mRD/brocode/pulls)
-
-</div>
-
 A Python-interpreted simple domain-specific language (DSL) that makes writing text-based adventure games so much easier. 
 T-BAGc stands for Text-Based Adventure Game Creator.
+
+</div>
 
 ---
 
