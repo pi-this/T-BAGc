@@ -43,7 +43,7 @@ By following these instructions you will have T-BAGc running on your computer.
 Python3 needs to be pre-installed to run T-BAGc.
 
 If Python is not installed you can install it at <a href="https://www.python.org/">python.org</a> or you can get Python from the Microsoft app store.
-When running the Python installer on Windows check Use admin privileges when installing py.exe and add python.exe to the PATH
+When running the Python installer on Windows check "use admin privileges" when installing py.exe and "add python.exe to the PATH".
 
 
 Once Python is installed you can install T-BAGc
