@@ -158,6 +158,13 @@ Now, create a folder.
 </p>
 
 
+Lastly, here is how to run T-BAGc in the Visual Studio terminal or the command prompt:
+
+```
+T-BAGc main.bag
+```
+
+
 
 
 ##  Documentation <a name="documentation"></a>
