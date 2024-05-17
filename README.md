@@ -95,10 +95,11 @@ Open the command prompt for further execution.
 Allow admin privileges
 
 
-Now reject the command prompt to admin privileges cmd window.
+Now redirect the command prompt to the admin privileges cmd window.
 <p>
-  <a href="" rel="noopener">
- <img src="https://github.com/pi-this/T-BAGc/blob/main/img/installStep3.png" alt="Project logo"></a>
+  ```
+  powershell -Command "Start-Process cmd -Verb RunAs"
+  ```
   <br />
   On the keyboard, hold down the 'Windows Key + R' to open the run dialog.
   In the run dialog type "cmd" to open the command prompt.
