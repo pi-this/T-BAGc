@@ -153,11 +153,6 @@ Now, create a folder.
   In Visual Studio open the folder path.
 </p>
 
-<p>
- <img src="https://github.com/pi-this/T-BAGc/blob/main/img/run4.png" alt="Project logo"></a>
-  <br />
-  In Visual Studio open the folder path.
-</p>
 
 
 
