@@ -1,6 +1,7 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px height=100px src="https://github.com/C0mRD/brocode/blob/main/brocode.jpg" alt="Project logo"></a>
+ ![T-BAGc](https://github.com/pi-this/T-BAGc/assets/114669697/8784ad39-5702-4d19-84c7-dc29dd2f977e)
+
 </p>
 
 <h3 align="center">T-BAGc</h3>
@@ -12,6 +13,9 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/c0mrd/brocode.svg)](https://github.com/C0mRD/brocode/pulls)
 
 </div>
+
+A Python-interpreted simple domain-specific language (DSL) that makes writing text-based adventure games so much easier. 
+T-BAGc stands for Text-Based Adventure Game Creator.
 
 ---
 
