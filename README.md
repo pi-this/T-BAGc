@@ -163,20 +163,26 @@ Lastly, here is how to run T-BAGc in the Visual Studio terminal or the command p
 ```
 T-BAGc main.bag
 ```
-
+If your file name is not main.bag change the name to suit the name of your file.
+Make sure when you do run the file that you are in its file path. If you are not in the same folder, that is fine, however in that case you must type up the entire path to the .bag file.
 
 
 
 ##  Documentation <a name="documentation"></a>
 
-### General
+### Hello World
 
-```start bro``` is the entrypoint for the program and all program must end with ```stop bro``` . Anything outside of it will be ignored.
-
+In T-BAGc there are three different ways to display a Hello World program. 
+Here is the smallest hello program made to print to the terminal/command prompt:
 ```
-start bro
+put "hello world"
+```
 
-stop bro
+The second hello world program is meant to log "hello world" to the web browser console.
+Here is the code to do that:
+```
+log "hello world"
+<...>
 ```
 
 ### Built-ins
