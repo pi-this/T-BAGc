@@ -131,7 +131,19 @@ xcopy "C:\User\username\Downloads\T-BAGc-main\T-BAGc-main\T-BAGc" "C:\Windows\Sy
 
 ### Running
 T-BAGc works best on Visual Studio code.
-After installing Visual Studio, create a file 
+Install Visual Studio.
+
+Now, create a folder.
+<p>
+  <a href="" rel="noopener">
+ <img src="https://github.com/pi-this/T-BAGc/blob/main/img/running1.png" alt="Project logo"></a>
+</p>
+
+<p>
+  <a href="" rel="noopener">
+ <img src="https://github.com/pi-this/T-BAGc/blob/main/img/running2.png" alt="Project logo"></a>
+  Within that folder make a .bag file. This is the file that will contain your T-BAGc code.
+</p>
 
 
 
