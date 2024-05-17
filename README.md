@@ -102,23 +102,25 @@ Now redirect the command prompt to the admin privileges cmd window.
 powershell -Command "Start-Process cmd -Verb RunAs"
 ```
 
-  Type the command above in the administrator command prompt.
+  Type the command above to open the administrator command prompt.
 </p>
 
 
 ##### Step 5
+Batch file copy
 
 
-
-Now reject the command prompt to admin privileges cmd window.
+Write the following code into your administrator command prompt.
 <p>
 
   ```
-xcopy "<filepath>\T-BAGc" "C:\Windows\System32\"
+xcopy <filepath> "C:\Windows\System32\"
 ```
   <br />
-  On the keyboard, hold down the 'Windows Key + R' to open the run dialog.
-  In the run dialog type "cmd" to open the command prompt.
+  The code above will add the batch file that will run T-BAGc to a folder so it can be accessed anywhere on Windows.
+  Don't forget to replace <filepath> with the path to the T-BAGc batch file.
+  Example:
+  xcopy "C:\User\username\Downloads\T-BAGc-main\T-BAGc-main\T-BAGc" "C:\Windows\System32\"
 </p>
 
 
