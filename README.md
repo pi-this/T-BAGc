@@ -1,6 +1,8 @@
-<center>
-![T-BAGc](https://github.com/pi-this/T-BAGc/assets/114669697/a3b31c55-7cb0-4be1-a155-86d5806a35cd)
-</center>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=300px height=100px src="https://github.com/C0mRD/brocode/blob/main/brocode.jpg" alt="Project logo"></a>
+</p>
+
 
 <h3 align="center">T-BAGc</h3>
 
