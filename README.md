@@ -116,10 +116,11 @@ Write the following code into your administrator command prompt.
   ```
 xcopy <filepath> "C:\Windows\System32\"
 ```
-  <br />
+
   The code above will add the batch file that will run T-BAGc to a folder so it can be accessed anywhere on Windows.
   Don't forget to replace <filepath> with the path to the T-BAGc batch file.
   Example:
+  <br />
 
   ```
 xcopy "C:\User\username\Downloads\T-BAGc-main\T-BAGc-main\T-BAGc" "C:\Windows\System32\"
