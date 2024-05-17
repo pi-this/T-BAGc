@@ -53,10 +53,10 @@ To install T-BAGc follow the instructions bellow.
 ##### Step 1
 Download zip
 
-
 <p align="center">
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/installStep1.png" alt="Project logo"></a>
+  Navigate to Code -> Download Zip
 </p>
 
 To get more brocode example files see the example folder.
