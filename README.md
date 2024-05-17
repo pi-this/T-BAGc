@@ -33,17 +33,17 @@ BroCode is a tiny programming language built using Antlr4 Python3 runtime, it in
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-Brocode also has an online playground to try your code on the go. Check the official <a href="https://brocodeofficial.onrender.com/">website</a> .
+By following these instructions you will have T-BAGc running on your computer.
 
 ### Prerequisites <a name = "prerequisites"></a>
 
-Python3 is need to be pre-installed to run brocode. Also install requirements via pip.
+Python3 needs to be pre-installed to run T-BAGc.
 
-```
-pip install -r requirements.txt
-```
+If Python is not installed you can install it at <a href="https://www.python.org/">python.org</a> or you can get Python from the Microsoft app store.
+When running the Python installer on Windows check Use admin privileges when installing py.exe and add python.exe to the PATH
+
+
+Once Python is installed you can install T-BAGc
 
 ### Installing
 
@@ -53,7 +53,9 @@ To install T-BAGc follow the instructions bellow.
 ##### Step 1
 Download zip
 
-<p align="center">
+
+First download the zip file for the project.
+<p>
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/installStep1.png" alt="Project logo"></a>
   <br />
