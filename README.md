@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/T-BAGc.png" alt="Project logo"></a>
 </p>
@@ -17,7 +17,7 @@ T-BAGc stands for Text-Based Adventure Game Creator.
     <br> 
 </p>
 
-## 📝 Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Getting Started](#getting_started)
