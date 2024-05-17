@@ -64,15 +64,15 @@ First, download the zip file for the project.
 
 
 ##### Step 2
-Download zip
+Extract zip
 
 
-First, download the zip file for the project.
+Extract the zip file.
 <p>
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/extract.png" alt="Project logo"></a>
   <br />
-  Rl,..ight click on "T-BAGc-main.zip" and click "Extract All..."
+  Right-click on "T-BAGc-main.zip" and click "Extract All..."
 </p>
 
 
