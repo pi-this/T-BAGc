@@ -8,14 +8,12 @@
 
 <div align="center">
 
-A Python-interpreted simple domain-specific language (DSL) that makes writing text-based adventure games so much easier. 
-T-BAGc stands for Text-Based Adventure Game Creator.
-
 </div>
 
 ---
 
-<p align="center"> A tiny programming language based on inside jokes
+<p align="center"> A Python-interpreted simple domain-specific language (DSL) that makes writing text-based adventure games so much easier. 
+T-BAGc stands for Text-Based Adventure Game Creator.
     <br> 
 </p>
 
