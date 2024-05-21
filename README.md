@@ -1,6 +1,7 @@
   <p align="center">
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/T-BAGc.png" alt="Project logo"></a>
+    <img src="https://github.com/pi-this/T-BAGc/blob/main/img/bag.png" alt="Project logo"></a>
 </p>
 
 
@@ -50,7 +51,7 @@ Once Python is installed you can install T-BAGc.
 ### Installing
 
 To install T-BAGc follow the instructions below.
-
+The following instructions have currently only been tested for windows.
 
 ##### Step 1
 Download zip
@@ -80,54 +81,44 @@ Extract the zip file.
 
 
 ##### Step 3
-Open command prompt
+Add to environment variables
 
 
-Open the command prompt for further execution.
+In Windows, search "edit the system environment variables
 <p>
   <a href="" rel="noopener">
- <img src="https://github.com/pi-this/T-BAGc/blob/main/img/installStep2.png" alt="Project logo"></a>
+ <img src="https://github.com/pi-this/T-BAGc/blob/main/img/var1.png" alt="Project logo"></a>
   <br />
-  On the keyboard, hold down the 'Windows Key + R' to open the run dialog.
-  In the run dialog type "cmd" to open the command prompt.
+  From the system properties click on "Environment Variables..."
 </p>
 
-
-##### Step 4
-Allow admin privileges
-
-
-Now redirect the command prompt to the admin privileges cmd window.
+Once the environment variables window is open, do the following.
 <p>
-
-  ```
-powershell -Command "Start-Process cmd -Verb RunAs"
-```
-
-  Type the command above to open the administrator command prompt.
+  <a href="" rel="noopener">
+ <img src="https://github.com/pi-this/T-BAGc/blob/main/img/var2.png" alt="Project logo"></a>
+  <br />
+  Under "System variables" search for the "Path" variable, highlight it, and click the "Edit..." button.
 </p>
 
-
-##### Step 5
-Batch file copy
-
-
-Write the following code into your administrator command prompt.
+Add a new environment variable.
 <p>
-
-  ```
-xcopy <filepath> "C:\Windows\System32\"
-```
-
-  The code above will add the batch file that will run T-BAGc to a folder so it can be accessed anywhere on Windows.
-  Don't forget to replace `<filepath>` with the path to the T-BAGc batch file.
+  <a href="" rel="noopener">
+ <img src="https://github.com/pi-this/T-BAGc/blob/main/img/var3.png" alt="Project logo"></a>
   <br />
-  Here is an example:
-  <br />
+  Click new to add a variable.
+</p>
 
-  ```
-xcopy "C:\User\username\Downloads\T-BAGc-main\T-BAGc-main\T-BAGc" "C:\Windows\System32\"
-```
+Now paste your path to the folder that contains your T-BAGc.exe file.
+Remember to add a "\" to the end of the path
+<p>
+  <a href="" rel="noopener">
+ <img src="https://github.com/pi-this/T-BAGc/blob/main/img/var3.png" alt="Project logo"></a>
+  <br />
+  In my case, I pasted "C:\Users\USERNAME\Desktop\T-BAGc\" to the path.
+</p>
+
+After doing this click "OK" on all the windows that are open and reboot your computer.
+T-BAGc can now be run from the command prompt.
   
 </p>
 
@@ -165,7 +156,7 @@ Lastly, here is how to run T-BAGc in the Visual Studio terminal or the command p
 ```
 T-BAGc main.bag
 ```
-If your file name is not main.bag change the name to suit the name of your file.
+If your file name is not main. bag change the name to suit the name of your file.
 Make sure when you do run the file that you are in its file path. If you are not in the same folder, that is fine, however in that case you must type up the entire path to the .bag file.
 
 
