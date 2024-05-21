@@ -1,7 +1,8 @@
   <p align="center">
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/T-BAGc.png" alt="Project logo"></a>
-    <img src="https://github.com/pi-this/T-BAGc/blob/main/img/bag.png" alt="Project logo"></a>
+
+<img src="https://github.com/pi-this/T-BAGc/blob/main/img/bag.png" alt="Project logo"></a>
 </p>
 
 
@@ -12,8 +13,6 @@
 </div>
 
 ---
-
-![bag](https://github.com/pi-this/T-BAGc/assets/114669697/6cb6ed91-11ce-4e65-85d2-8f4f01713a13)
 
 <p align="center"> A Python-interpreted simple domain-specific language (DSL) that makes writing text-based adventure games so much easier. 
 T-BAGc stands for Text-Based Adventure Game Creator.
