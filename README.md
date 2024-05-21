@@ -48,7 +48,7 @@ Once Python is installed you can install T-BAGc.
 ### Installing
 
 To install T-BAGc follow the instructions below.
-The following instructions have currently only been tested for windows.
+The following instructions have currently only been tested for Windows.
 
 ##### Step 1
 Download zip
@@ -72,7 +72,7 @@ Extract the zip file.
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/extract.png" alt="Project logo"></a>
   <br />
-  Right-click on "T-BAGc-main.zip" and click "Extract All..."
+  Right-click on "T-BAGc-main.zip" and click `Extract All...`
 </p>
 
 
@@ -86,7 +86,8 @@ In Windows, search "edit the system environment variables
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/var1.png" alt="Project logo"></a>
   <br />
-  From the system properties click on "Environment Variables..."
+
+  From the system properties click on `Environment Variables...`
 </p>
 
 Once the environment variables window is open, do the following.
@@ -94,7 +95,7 @@ Once the environment variables window is open, do the following.
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/var2.png" alt="Project logo"></a>
   <br />
-  Under "System variables" search for the "Path" variable, highlight it, and click the "Edit..." button.
+  Under "System variables" search for the "Path" variable, highlight it, and click the `Edit...` button.
 </p>
 
 Add a new environment variable.
@@ -111,10 +112,10 @@ Remember to add a "\" to the end of the path
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/var3.png" alt="Project logo"></a>
   <br />
-  In my case, I pasted "C:\Users\USERNAME\Desktop\T-BAGc\" to the path.
+  In my case, I pasted `C:\Users\USERNAME\Desktop\T-BAGc\` to the path.
 </p>
 
-After doing this click "OK" on all the windows that are open and reboot your computer.
+After doing this click `OK` on all the windows that are open and reboot your computer.
 T-BAGc can now be run from the command prompt.
   
 </p>
@@ -164,9 +165,7 @@ Make sure when you do run the file that you are in its file path. If you are not
 
 In T-BAGc there are three different ways to display a Hello World program. 
 Here is the smallest hello program made to print to the terminal/command prompt:
-```
-put "hello world"
-```
+
 
 The second hello world program is meant to log "hello world" to the web browser console.
 Here is the code to do that:
