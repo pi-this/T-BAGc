@@ -107,7 +107,7 @@ Add a new environment variable.
 </p>
 
 Now paste your path to the folder that contains your T-BAGc.exe file.
-Remember to add a "\" to the end of the path
+Remember to add a "\\" to the end of the path
 <p>
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/var3.png" alt="Project logo"></a>
