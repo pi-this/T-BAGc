@@ -165,6 +165,9 @@ Make sure when you do run the file that you are in its file path. If you are not
 
 In T-BAGc there are three different ways to display a Hello World program. 
 Here is the smallest hello program made to print to the terminal/command prompt:
+```
+put "hello world"
+```
 
 
 The second hello world program is meant to log "hello world" to the web browser console.
