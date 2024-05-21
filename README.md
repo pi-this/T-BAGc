@@ -1,9 +1,9 @@
   <p align="center">
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/T-BAGc.png" alt="Project logo"></a>
-    ![bag](https://github.com/pi-this/T-BAGc/assets/114669697/6cb6ed91-11ce-4e65-85d2-8f4f01713a13)
-
 </p>
+
+![bag](https://github.com/pi-this/T-BAGc/assets/114669697/6cb6ed91-11ce-4e65-85d2-8f4f01713a13)
 
 
 <h3 align="center">T-BAGc</h3>
