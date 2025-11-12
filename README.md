@@ -106,7 +106,7 @@ In my case, I pasted "C:\Users\USERNAME\Desktop\T-BAGc\" to the path.
 </p>
 
 After doing this click "OK" on all the windows that are open and reboot your computer.
-T-BAGc can now be run from the command prompt.
+T-BAGc can now be ran from the command prompt.
   
 </p>
 
