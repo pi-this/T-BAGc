@@ -1,3 +1,4 @@
+<b>The following software is for Windows computers only.</b>
   <p align="center">
   <a href="" rel="noopener">
  <img src="https://github.com/pi-this/T-BAGc/blob/main/img/T-BAGc.png" alt="Project logo"></a>
